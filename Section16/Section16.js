@@ -1,3 +1,6 @@
+Math.random(); // returns a decimal between 0 and 1
+
+
 // Comparison operators all return a boolean
 	>
 	<
@@ -26,3 +29,12 @@ let userInput = prompt("Please enter a number"); // prompt requests input and st
 //Parsing methods to change typeof
 let userInputAsInt = parseInt(userInput);
 parseInt("101asasasa"); // 101
+
+// Falsy values
+false
+0
+""
+null
+undefined
+NaN
+// everything else is truthy

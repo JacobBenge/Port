@@ -1,0 +1,4 @@
+ctrl+shift+p
+Select the workspace option
+change the following
+    "window.zoomLevel": 2
