@@ -1,7 +1,7 @@
 // christmasCard.js
-// visit www.bengeco.com/
+// visit www.bengeco.com/dad/
 const emotion = prompt('Enter your emotion').toString().toLowerCase();
-const tea =['Honey Lavender', 'Sweet Tangerine', 'Honey Chai', 'Fruit Sampler'];
+const tea = ['Honey Lavender', 'Sweet Tangerine', 'Honey Chai', 'Fruit Sampler'];
 
 if(emotion === 'stress'){
     alert(`I recommend ${tea[0]} tea for Stress Relief.`);
