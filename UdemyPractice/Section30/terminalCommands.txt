@@ -1,0 +1,16 @@
+// cd folder1           changes directory to folder1
+// cd ..                up one directory
+// cd ../../pets        up two directories, then down into pets
+// cd ~                 takes you to home directory (/users/benge)
+// cd /                 takes you to root directory (directory above users)
+// cd code/project1/    down two directories
+// pwd                  print working directory
+// ls                   lists items in current directory
+// ls --help            pulls up the manual for the command. Good way to remember flags. It's "man ls" on mac
+// ctrl c               quit command
+// mkdir plants         makes a directory called plants
+// mkdir plant animal   makes a directory called plant and a directory called animal
+// touch                creates a file
+// rm                   removes a file permanently. Doesn't go to recycle bin
+// rmdir                removes an empty folder
+// rm -rf plant         removes the folder plant and it's contents
