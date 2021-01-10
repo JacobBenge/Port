@@ -1,6 +1,7 @@
-node                    in a git bash terminal, type node to enter nodejs REPL
-REPL                    similar to the javascript console in a browser
-                        Since Node Js doesn't run in a browser, we don't have access to window, document, body, DOM, API's etc. 
-                        It's a different context, but still javascript can run here
-global                  The equivalent of window in a browser. It's the global scope
-node firstScript.Js     runs the saved script in the git bash
+node                                    in a git bash terminal, type node to enter nodejs REPL
+REPL                                    similar to the javascript console in a browser
+                                        Since Node Js doesn't run in a browser, we don't have access to window, document, body, DOM, API's etc. 
+                                        It's a different context, but still javascript can run here
+global                                  The equivalent of window in a browser. It's the global scope
+node firstScript.Js                     runs the saved script in the git bash
+console.log('process.argv ')            returns filepath of node executible and the filepath of the script being ran.
