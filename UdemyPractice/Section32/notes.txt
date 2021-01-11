@@ -3,3 +3,4 @@ package.json                    include for every node package in the root direc
 npm install                     will look for a package.json in the directory and install the dependencies
 
 DON'T INCLUDE node_modules IN GITHUB. It's redundant and it bloats your files.
+I added a generic nodeJS .gitignore 
