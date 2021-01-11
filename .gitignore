@@ -1,5 +1,8 @@
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 
+#Mac only file
+.DS_Store
+
 # Logs
 logs
 *.log

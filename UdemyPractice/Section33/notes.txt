@@ -1,0 +1,3 @@
+express                     a web framework for node.js
+nodemon                     a package i've installed globally that will autorestart my express server after a js file is saved
+            to use it i just run the script as such 'nodemon index.js' instead of 'node index.js'
