@@ -1,0 +1,9 @@
+npm init                        creates a package.json file for you. You can add git repo, author, license, etc.
+package.json                    include for every node package in the root directory. It contains a ton, but the most important is dependencies. It will automatically install the other node packages needed.
+npm install                     will look for a package.json in the directory and install the dependencies
+npm install -g cowsay           installs the cowsay package globally
+sudo chown -R $USER /usr/local/lob.node_modules
+
+
+DON'T INCLUDE node_modules IN GITHUB. It's redundant and it bloats your files.
+I added a generic nodeJS .gitignore 
