@@ -1,0 +1,10 @@
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\bin\Debug\JBStateCapSearchWinForm.exe.config
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\bin\Debug\JBStateCapSearchWinForm.exe
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\bin\Debug\JBStateCapSearchWinForm.pdb
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.Properties.Resources.resources
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.csproj.GenerateResource.cache
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.exe
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.pdb
+C:\Users\benge\source\repos\JBStateCapSearch\JBStateCapSearchWinForm\obj\Debug\JBStateCapSearchWinForm.StateCapitalForm.resources

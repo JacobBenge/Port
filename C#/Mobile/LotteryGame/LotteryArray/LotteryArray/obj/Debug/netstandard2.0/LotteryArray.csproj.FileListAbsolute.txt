@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\bin\Debug\netstandard2.0\LotteryArray.deps.json
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\bin\Debug\netstandard2.0\LotteryArray.dll
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\bin\Debug\netstandard2.0\ref\LotteryArray.dll
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\bin\Debug\netstandard2.0\LotteryArray.pdb
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.AssemblyInfo.cs
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.dll
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\ref\LotteryArray.dll
+C:\Users\benge\source\repos\LotteryArray\LotteryArray\LotteryArray\obj\Debug\netstandard2.0\LotteryArray.pdb

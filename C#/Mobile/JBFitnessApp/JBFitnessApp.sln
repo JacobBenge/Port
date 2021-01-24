@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBFitnessApp.Android", "JBFitnessApp\JBFitnessApp.Android\JBFitnessApp.Android.csproj", "{23173CD5-C5F9-488C-9682-869CC0FD35E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBFitnessApp", "JBFitnessApp\JBFitnessApp\JBFitnessApp.csproj", "{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23173CD5-C5F9-488C-9682-869CC0FD35E7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73B4B0A-FDEC-43C5-AD48-722DC5D5BC8F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8123B96-46EE-4AC0-B317-F1F0C087BADE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JBLanguageTranslator.MainPage"
+             Title="JBLanguageTranslator">
+
+    <Grid Padding="5,0"
+          RowSpacing="1"
+          ColumnSpacing="1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="LblInstructionTitle"
+               Text="Select a Language and I will say Good Morning"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="3"/>
+        <Button x:Name="BtnItalian"
+                Grid.Row="1"
+                Grid.Column="0"
+                Text="Italian"
+                Clicked="BtnItalian_Clicked"/>
+        <Button x:Name="BtnSpanish"
+                Grid.Row="1"
+                Grid.Column="1"
+                Text="Spanish"
+                Clicked="BtnSpanish_Clicked"/>
+        <Button x:Name="BtnGerman"
+                Grid.Row="1"
+                Grid.Column="2"
+                Text="German"
+                Clicked="BtnGerman_Clicked"/>
+        <Label x:Name="LblTranslation"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="3"
+               Text="Results..."
+               FontSize="18"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+    </Grid>
+
+
+
+</ContentPage>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JBFitnessApp.MainPage"
+             Title="Jacob's Fitness App">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label
+            x:Name="LblWelcome"
+            Text="Welcome to your fitness app"
+            Grid.Row="0"
+            Grid.ColumnSpan="2"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            FontSize="25"
+            TextColor="Teal"/>
+        <Button
+            x:Name="BtnSimpleTimer"
+            Text="Simple Timer"
+            Grid.Row="4"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Clicked="BtnSimpleTimer_Clicked"
+            FontSize="20"
+            Margin="5"/>
+        <Button
+            x:Name="BtnBMR"
+            Text="My BMR Page"
+            Grid.Row="3"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Clicked="BtnBMR_Clicked"
+            FontSize="20"
+            Margin="5"/>
+        <Button
+            x:Name="BtnMyProfile"
+            Text="My Profile"
+            Grid.Row="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Clicked="BtnMyProfile_Clicked"
+            FontSize="20"
+            Margin="5"/>
+        <Button
+            x:Name="BtnMyWater"
+            Text="My Water"
+            Grid.Row="5"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Clicked="BtnMyWater_Clicked"
+            FontSize="20"
+            Margin="5"/>
+        <Button
+            x:Name="BtnMyFood"
+            Text="My Food"
+            Grid.Row="6"
+            Grid.Column="0"
+            Grid.ColumnSpan="2"
+            Clicked="BtnMyFood_Clicked"
+            FontSize="20"
+            Margin="5"/>
+        <Label x:Name="LblTodayDate"
+               Text="Today's Date: " 
+               Grid.Row="1"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Padding="20"
+               FontSize="20"/>
+    </Grid>
+
+</ContentPage>

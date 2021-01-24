@@ -1,0 +1,15 @@
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\bin\Debug\netstandard2.0\Participation6.deps.json
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\bin\Debug\netstandard2.0\Participation6.dll
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\bin\Debug\netstandard2.0\ref\Participation6.dll
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\bin\Debug\netstandard2.0\Participation6.pdb
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\PayrollPage.xaml.g.cs
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.AssemblyInfo.cs
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.dll
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\ref\Participation6.dll
+C:\Users\benge\source\repos\Participation6\Participation6\Participation6\obj\Debug\netstandard2.0\Participation6.pdb

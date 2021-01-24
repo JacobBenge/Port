@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\bin\Debug\netstandard2.0\ModulusTime.deps.json
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\bin\Debug\netstandard2.0\ModulusTime.dll
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\bin\Debug\netstandard2.0\ref\ModulusTime.dll
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\bin\Debug\netstandard2.0\ModulusTime.pdb
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.AssemblyInfo.cs
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.dll
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ref\ModulusTime.dll
+C:\Users\benge\source\repos\ModulusTime\ModulusTime\ModulusTime\obj\Debug\netstandard2.0\ModulusTime.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarListStruct.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="*"/>
+            <RowDefinition  Height="*"/>
+            <RowDefinition  Height="*"/>
+            <RowDefinition  Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <BoxView BackgroundColor="SlateGray"/>
+        <Label Text="Jacob's Cars"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="35"
+               TextColor="Black"/>
+        <Picker x:Name="PckAutomobile"
+                Title="Select a Car"
+                TitleColor="Coral"
+                VerticalOptions="Center"
+                Grid.Row="2"
+                Margin="40"
+                FontSize="30">
+            <Picker.Items>
+                <x:String>Tesla</x:String>
+                <x:String>Ford</x:String>
+                <x:String>Lincoln</x:String>
+            </Picker.Items>
+        </Picker>
+    </Grid>
+
+</ContentPage>

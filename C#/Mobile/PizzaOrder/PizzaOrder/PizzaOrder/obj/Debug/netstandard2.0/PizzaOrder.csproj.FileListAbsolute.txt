@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\bin\Debug\netstandard2.0\PizzaOrder.deps.json
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\bin\Debug\netstandard2.0\PizzaOrder.dll
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\bin\Debug\netstandard2.0\ref\PizzaOrder.dll
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\bin\Debug\netstandard2.0\PizzaOrder.pdb
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.AssemblyInfo.cs
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.dll
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\ref\PizzaOrder.dll
+C:\Users\benge\source\repos\PizzaOrder\PizzaOrder\PizzaOrder\obj\Debug\netstandard2.0\PizzaOrder.pdb

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JBFitnessApp.MyTimerPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label
+            x:Name="LblTimerTitle"
+            Text="Jacob's Simple Timer"
+            Grid.Row="0"
+            Grid.ColumnSpan="2"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            FontSize="Title"
+            TextColor="Teal"/>
+        <Frame BorderColor="Green" 
+            CornerRadius="30"
+            HasShadow="True"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Grid.Row="1"
+            Grid.ColumnSpan="2" 
+            Margin="10">
+            <Label x:Name="LblTimer"
+               	    Text="00:00"
+               	  	FontSize="55"
+               	  	HorizontalOptions="Center"/>
+        </Frame>
+        <Label
+            Text="Time:"
+            Grid.Row="2"
+            FontSize="20"
+            HorizontalOptions="End"
+            VerticalOptions="Center"
+            TextColor="BlueViolet"/>
+        <Entry
+            x:Name="EntryStartTime"
+            Placeholder="Time in Seconds"
+            Keyboard="Numeric"
+            Grid.Row="2"
+            Grid.Column="1"
+            HorizontalOptions="Start"
+            VerticalOptions="Center"
+            FontSize="20"
+            />
+        <Label Text="Up/Down"
+               HorizontalOptions="End"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="BlueViolet"
+               Grid.Row="3"/>
+        <Picker x:Name="PkrUpDown"
+                Grid.Row="3"
+                Grid.Column="1"
+                FontSize="Large"
+                WidthRequest="150"
+                HorizontalOptions="Start"
+                VerticalOptions="Center">
+            <Picker.Items>
+                <x:String>Count Down</x:String>
+                <x:String>Count Up</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button
+            x:Name="BtnTimerClose"
+            Text="Close"
+            Grid.Row="4"
+            Grid.Column="1"
+            FontSize="Large"
+            Margin="5"
+            Clicked="BtnTimerClose_Clicked"
+            Padding="0,20"/>
+        <Button
+            x:Name="BtnTimerStart"
+            Text="Start"
+            Grid.Row="4"
+            Grid.Column="0"
+            FontSize="Large"
+            Margin="5"
+            Clicked="BtnTimerStart_Clicked"
+            Padding="0,20"/>
+        <Button x:Name="BtnGetLapTime"
+                Text="Get Lap Time"
+                Grid.Row ="5"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Start"
+                FontSize="Large"
+                Padding="0,20"
+                Margin="5"
+                Clicked="BtnGetLapTime_Clicked"/>
+        <Label x:Name="LblLaps"
+               Text="Laps..."
+               HorizontalOptions="Start"
+               VerticalOptions="Center"
+               FontSize="Small"
+               TextColor="BlueViolet"
+               Margin="30"
+               Grid.Row="6"
+               Grid.ColumnSpan="2"/>
+    </Grid>
+</ContentPage>

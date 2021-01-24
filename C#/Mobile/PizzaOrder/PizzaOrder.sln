@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrder.Android", "PizzaOrder\PizzaOrder.Android\PizzaOrder.Android.csproj", "{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrder", "PizzaOrder\PizzaOrder\PizzaOrder.csproj", "{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8D2CB5-86A1-4F28-94AA-F4042AAF781E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C09526-9DB0-4338-9C3A-AEAF066A3FEC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EEA8CB-B3B0-4B3E-9050-B83D91068498}
+	EndGlobalSection
+EndGlobal

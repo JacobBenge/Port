@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SwitchCase.MainPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Jacob's Fruit Stand"
+               FontSize="30"
+               HorizontalOptions="Center"
+               Grid.ColumnSpan="2"
+               VerticalOptions="Center"/>
+        <Picker x:Name="PckFruit"
+                Title="Select a Fruit"
+                FontSize="30"
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Center">
+            <Picker.Items>
+                <x:String>Apple</x:String>
+                <x:String>Canteloupe</x:String>
+                <x:String>Watermelon</x:String>
+                <x:String>Peach</x:String>
+            </Picker.Items>
+        </Picker>
+        <Label Text="Color:"
+               Grid.Row="2"
+               FontSize="30"
+               HorizontalOptions="End"/>
+        <Label Text="Plant Type:"
+               Grid.Row="3"
+               FontSize="30"
+               HorizontalOptions="End"/>
+        <Label Text="Price:"
+               Grid.Row="4"
+               FontSize="30"
+               HorizontalOptions="End"/>
+        <Label x:Name="LblColor"
+               FontSize="30"
+               Text="Results..."
+               Grid.Row="2"
+               Grid.Column="1"
+               HorizontalOptions="Start"/>
+        <Label x:Name="LblPlantType"
+               FontSize="30"
+               Text="Results..."
+               Grid.Row="3"
+               Grid.Column="1"
+               HorizontalOptions="Start"/>
+        <Label x:Name="LblPrice"
+               FontSize="30"
+               Text="Results..."
+               Grid.Row="4"
+               Grid.Column="1"
+               HorizontalOptions="Start"/>
+        <Button Text="Details"
+                x:Name="BtnDetails"
+                Grid.Row="5"
+                FontSize="30"
+                Clicked="BtnDetails_Clicked"/>
+        <Button Text="Clear"
+                x:Name="BtnClear"
+                Grid.Row="5"
+                Grid.Column="1"
+                FontSize="30"
+                Clicked="BtnClear_Clicked"/>
+    </Grid>
+ 
+
+</ContentPage>

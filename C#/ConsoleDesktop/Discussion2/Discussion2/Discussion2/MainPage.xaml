@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Discussion2.MainPage">
+
+    <StackLayout Margin="0,100" Padding="0,200">
+        <Button x:Name="BtnExampleButton"
+                Text="Example Button"
+                FontSize="25"
+                TextColor="AliceBlue"
+                BackgroundColor="Black"
+                HorizontalOptions="Center"
+                Clicked="BtnExampleButton_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

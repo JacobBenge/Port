@@ -1,0 +1,13 @@
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\bin\Debug\netstandard2.0\JBLanguageTranslator.deps.json
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\bin\Debug\netstandard2.0\JBLanguageTranslator.dll
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\bin\Debug\netstandard2.0\ref\JBLanguageTranslator.dll
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\bin\Debug\netstandard2.0\JBLanguageTranslator.pdb
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\JBLanguageTranslator.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\JBLanguageTranslator.AssemblyInfo.cs
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\JBLanguageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\JBLanguageTranslator.dll
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\ref\JBLanguageTranslator.dll
+C:\Users\benge\source\repos\JBLanguageTranslator\JBLanguageTranslator\JBLanguageTranslator\obj\Debug\netstandard2.0\JBLanguageTranslator.pdb

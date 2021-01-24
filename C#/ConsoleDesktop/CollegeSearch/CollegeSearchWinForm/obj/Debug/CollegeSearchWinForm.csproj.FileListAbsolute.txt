@@ -1,0 +1,10 @@
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\bin\Debug\CollegeSearchWinForm.exe.config
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\bin\Debug\CollegeSearchWinForm.exe
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\bin\Debug\CollegeSearchWinForm.pdb
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.Properties.Resources.resources
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.csproj.GenerateResource.cache
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.exe
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.pdb
+C:\Users\benge\source\repos\CollegeSearch\CollegeSearchWinForm\obj\Debug\CollegeSearchWinForm.CollegeCityForm.resources

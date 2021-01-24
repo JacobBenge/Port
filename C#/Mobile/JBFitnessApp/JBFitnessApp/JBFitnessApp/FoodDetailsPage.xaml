@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JBFitnessApp.FoodDetailsPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".20*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <BoxView BackgroundColor="Salmon"/>
+        <Label 
+           Text="Food"
+           FontSize="25"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           TextColor="Black"/>
+        <Picker x:Name="PckrFood"
+            Title="Select a Food"
+            Grid.Row="1"
+            FontSize="30"
+            VerticalOptions="Center"/>
+        <Button x:Name="BtnFoodDetails"
+            Text="Food Details"
+            FontSize="30"
+            Clicked="BtnDetails_Clicked"
+            Grid.Row="2"
+            VerticalOptions="End"/>
+        <Button
+            x:Name="BtnFoodClose"
+            Text="Close"
+            Grid.Row="3"
+            Clicked="BtnFoodClose_Clicked"
+            FontSize="30"
+            VerticalOptions="Start"/>
+        
+    </Grid>
+</ContentPage>

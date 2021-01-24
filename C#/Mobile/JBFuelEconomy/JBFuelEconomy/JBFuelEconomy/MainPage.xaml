@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JBFuelEconomy.MainPage"
+             Title="Fuel Economy Calculator">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Miles: "
+               HorizontalOptions="End"
+               VerticalOptions="Center"/>
+        <Label Text="Gallons: "
+               HorizontalOptions="End"
+               Grid.Row="1"
+               VerticalOptions="Center"/>
+        <Entry x:Name="EntryMiles"
+               Grid.Column="1"
+               HorizontalOptions="Start"
+               VerticalOptions="Center"
+               Placeholder="Enter Miles"
+               Keyboard="Numeric"/>
+        <Entry x:Name="EntryGallons"
+               Grid.Column="1"
+               Grid.Row="1"
+               HorizontalOptions="Start"
+               VerticalOptions="Center"
+               Placeholder="Enter Gallons"
+               Keyboard="Numeric"/>
+        <Button x:Name="BtnCalculate"
+                Text="Calculate"
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                VerticalOptions="Center"
+                Padding="0,20"
+                Margin="20,0"
+                Clicked="BtnCalculate_Clicked"/>
+        <Label Text="MPG"
+               Grid.Row="3"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="End"/>
+        <Label x:Name="LblResults"
+               Grid.Row="4"
+               Grid.ColumnSpan="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               Text="Results..."/>
+    </Grid>
+
+</ContentPage>

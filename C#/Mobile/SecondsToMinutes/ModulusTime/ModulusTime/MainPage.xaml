@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModulusTime.MainPage"
+             Title="Time Machine">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Jacob's Time Machine"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="30"/>
+        <Label x:Name="LblTime"
+               Text="00:00"
+               FontSize="140"
+               HorizontalOptions="Center"
+               Grid.Row="1"/>
+        <Entry x:Name="SecondsEntry"
+               FontSize="30"
+               Placeholder="Enter Seconds"
+               Grid.Row="2"
+               VerticalOptions="Center"/>
+        <Button x:Name="BtnConvert"
+                Text="Convert"
+                FontSize="30"
+                Grid.Row="3"
+                Clicked="BtnConvert_Clicked"/>
+    </Grid>
+
+</ContentPage>

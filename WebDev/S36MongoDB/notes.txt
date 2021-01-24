@@ -1,0 +1,37 @@
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+Start the Server (cmd as admin)    "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
+ctrl+l                              will clear the terminal
+show dbs                            shows available data bases
+use animalShelter                   switches to animalShelter db. Creates one if doesn't exist
+BSON                                Binary JSON. MongoDB stores everything in Binary so it is faster. Also supports more data types
+                                    Especially helpful for dates
+                                    https://www.mongodb.com/json-and-bson
+show collections                                        shows the collections in the db. Returns nothing if empty
+db.collection.insert({ name: "Charlie"})                inserts the JSON into the collection
+db.collection.find({breed:"corgi"})                     Returns all the contents of the collection
+db.collection.findOne()                                 returns the entire document for one that matches the criteria
+db.collection.updateOne({_id: "asfaskjlejo238"}, {$set: {age: 4}})          $set is used in conjunction with updateOne() to select which attribute to update
+db.collection.updateMany({catFriendly: true}, {$set: {isAvailable: false}})
+$set
+db.collection.updateOne({_id: "asfaskjlejo238"}, {$currentDate: {lastModified: true}})
+db.collection.replaceOne({})                                                replaces destructively
+db.collection.deleteOne({name:'Blue Steele'})
+db.collection.deleteMany({isAvailable: false})
+db.collection.deleteMany({})                                                Deletes the entire collection.
+
+
+    https://docs.mongodb.com/manual/reference/operator/query/
+Name	Description
+$eq	    Matches values that are equal to a specified value.
+$gt	    Matches values that are greater than a specified value.
+$gte	Matches values that are greater than or equal to a specified value.
+$in	    Matches any of the values specified in an array.
+$lt	    Matches values that are less than a specified value.
+$lte	Matches values that are less than or equal to a specified value.
+$ne	    Matches all values that are not equal to a specified value.
+$nin	Matches none of the values specified in an array.
+$and	Joins query clauses with a logical AND returns all documents that match the conditions of both clauses.
+$not	Inverts the effect of a query expression and returns documents that do not match the query expression.
+$nor	Joins query clauses with a logical NOR returns all documents that fail to match both clauses.
+$or	    Joins query clauses with a logical OR returns all documents that match the conditions of either clause.

@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\bin\Debug\netstandard2.0\Participation 17.deps.json
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\bin\Debug\netstandard2.0\Participation 17.dll
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\bin\Debug\netstandard2.0\ref\Participation 17.dll
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\bin\Debug\netstandard2.0\Participation 17.pdb
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.AssemblyInfo.cs
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.dll
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\ref\Participation 17.dll
+C:\Users\benge\source\repos\Participation 17\Participation 17\Participation 17\obj\Debug\netstandard2.0\Participation 17.pdb

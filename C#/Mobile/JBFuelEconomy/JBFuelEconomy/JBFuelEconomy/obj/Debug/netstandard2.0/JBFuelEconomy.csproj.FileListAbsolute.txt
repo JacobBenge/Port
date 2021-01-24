@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\bin\Debug\netstandard2.0\JBFuelEconomy.deps.json
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\bin\Debug\netstandard2.0\JBFuelEconomy.dll
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\bin\Debug\netstandard2.0\ref\JBFuelEconomy.dll
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\bin\Debug\netstandard2.0\JBFuelEconomy.pdb
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.AssemblyInfo.cs
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.dll
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\ref\JBFuelEconomy.dll
+C:\Users\benge\source\repos\JBFuelEconomy\JBFuelEconomy\JBFuelEconomy\obj\Debug\netstandard2.0\JBFuelEconomy.pdb

@@ -1,0 +1,14 @@
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\bin\Debug\netstandard2.0\Participation18.deps.json
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\bin\Debug\netstandard2.0\Participation18.dll
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\bin\Debug\netstandard2.0\ref\Participation18.dll
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\bin\Debug\netstandard2.0\Participation18.pdb
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.csprojAssemblyReference.cache
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.AssemblyInfoInputs.cache
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.AssemblyInfo.cs
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.csproj.CoreCompileInputs.cache
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.dll
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\ref\Participation18.dll
+C:\Users\benge\source\repos\Participation18\Participation18\Participation18\obj\Debug\netstandard2.0\Participation18.pdb
