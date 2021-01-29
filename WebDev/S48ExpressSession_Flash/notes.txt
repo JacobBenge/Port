@@ -1,0 +1,1 @@
+redis is used as a temporary data store for sessions.
